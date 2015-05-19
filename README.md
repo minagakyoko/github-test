@@ -1,4 +1,4 @@
-# github-test-githubで変更
+# github-test-githubで2度目の変更
 勉強会用のレポジトリ
 
 
